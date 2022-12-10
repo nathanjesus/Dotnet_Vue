@@ -1,0 +1,51 @@
+{
+  "knights": [
+    {
+      "id": 2,
+      "name": "Oberon",
+      "idade": 7000,
+      "armas": 5,
+      "atributo": "Destreza",
+      "ataque": 12,
+      "exp": 16000
+    },
+    {
+      "id": 3,
+      "name": "Akinori",
+      "idade": 35,
+      "armas": 2,
+      "atributo": "Agilidade",
+      "ataque": 4,
+      "exp": 7000
+    },
+    {
+      "id": 4,
+      "name": "Thor",
+      "idade": 1200,
+      "armas": 3,
+      "atributo": "Inteligência",
+      "ataque": 7,
+      "exp": 2500
+    },
+    {
+      "id": 5,
+      "name": "Sr.Morte",
+      "idade": 300,
+      "armas": 2,
+      "atributo": "Força",
+      "ataque": 2,
+      "exp": 26000
+    }
+  ],
+  "hall": [
+    {
+      "id": 1,
+      "name": "Berserk",
+      "idade": 60,
+      "armas": 1,
+      "atributo": "strength",
+      "ataque": 7,
+      "exp": 2700
+    }
+  ]
+}
