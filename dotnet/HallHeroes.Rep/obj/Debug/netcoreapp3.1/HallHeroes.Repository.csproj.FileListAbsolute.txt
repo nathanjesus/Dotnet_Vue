@@ -1,0 +1,13 @@
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.csproj.AssemblyReference.cache
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\bin\Debug\netcoreapp3.1\HallHeroes.Repository.deps.json
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\bin\Debug\netcoreapp3.1\HallHeroes.Repository.dll
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\bin\Debug\netcoreapp3.1\HallHeroes.Repository.pdb
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.dll
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.pdb
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\obj\Debug\netcoreapp3.1\HallHeroes.Repository.csproj.CopyComplete
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\bin\Debug\netcoreapp3.1\DataCore.dll
+C:\Users\natha\Source\Repos\HallHeroes\HallHeroes.Rep\bin\Debug\netcoreapp3.1\DataCore.pdb

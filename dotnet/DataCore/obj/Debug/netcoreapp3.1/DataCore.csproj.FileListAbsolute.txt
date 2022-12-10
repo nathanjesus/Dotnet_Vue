@@ -1,0 +1,13 @@
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\bin\Debug\netcoreapp3.1\DataCore.deps.json
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\bin\Debug\netcoreapp3.1\DataCore.runtimeconfig.json
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\bin\Debug\netcoreapp3.1\DataCore.runtimeconfig.dev.json
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\bin\Debug\netcoreapp3.1\DataCore.dll
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\bin\Debug\netcoreapp3.1\DataCore.pdb
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.csproj.AssemblyReference.cache
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.dll
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.pdb
+C:\Users\natha\Source\Repos\HallHeroes\DataCore\obj\Debug\netcoreapp3.1\DataCore.genruntimeconfig.cache

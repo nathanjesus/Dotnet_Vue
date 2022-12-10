@@ -1,0 +1,13 @@
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\HallHeroes.Data.deps.json
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\HallHeroes.Data.dll
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\HallHeroes.Data.pdb
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.dll
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.pdb
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.csproj.AssemblyReference.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\HallHeroes.Data.runtimeconfig.json
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\HallHeroes.Data.runtimeconfig.dev.json
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\HallHeroes.Data.genruntimeconfig.cache

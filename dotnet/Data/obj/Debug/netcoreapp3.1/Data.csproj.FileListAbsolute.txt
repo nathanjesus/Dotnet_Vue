@@ -1,0 +1,10 @@
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\natha\Source\Repos\HallHeroes\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\natha\Source\Repos\HallHeroes\Data\obj\Debug\netcoreapp3.1\Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\natha\Source\Repos\HallHeroes\Domian\obj\Debug\netcoreapp3.1\Domian.csproj.AssemblyReference.cache
+C:\Users\natha\Source\Repos\HallHeroes\Domian\obj\Debug\netcoreapp3.1\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Source\Repos\HallHeroes\Domian\obj\Debug\netcoreapp3.1\Domian.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\HallHeroes\Domian\obj\Debug\netcoreapp3.1\Domian.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\HallHeroes\Domian\obj\Debug\netcoreapp3.1\Domian.csproj.CoreCompileInputs.cache
